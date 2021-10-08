@@ -1,0 +1,7 @@
+Makefile
+README
+command_executor
+command_executor.c
+command_executor.o
+output.txt
+solution.c
